@@ -1,0 +1,27 @@
+# Folders 
+data
+results*
+_*
+
+# Packages 
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.sublime-project
+*.sublime-workspace
+
+_*.go
+
+# Logs and databases 
+log.*
+tracelog.*
+*.log
+
+# OS generated files 
+.DS_Store
+.DS_Store?
